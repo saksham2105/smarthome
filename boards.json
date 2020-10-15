@@ -1,0 +1,281 @@
+{
+	"rooms": [{
+		"name": "Dining_Room",
+		"id": 1001,
+		"boards": [{
+				"name": "board-1",
+				"id": 101,
+				"equipments": [{
+						"name": "oven11",
+						"id": 1,
+						"type": "microwaveoven",
+						"status": 0,
+						"min": 0,
+						"max": 5,
+						"isLevel": true,
+						"regulationLevel": 0
+					},
+					{
+						"name": "tubelight1",
+						"id": 2,
+						"type": "tubelight",
+						"status": 0,
+						"min": 0,
+						"max": 5,
+						"isLevel": false,
+						"illuminationLevel": 0
+
+					},
+					{
+						"name": "fan1",
+						"id": 3,
+						"type": "tablefan",
+						"status": 0,
+						"min": 0,
+						"max": 5,
+						"isLevel": true,
+						"regulatorLevel": 0
+
+					},
+					{
+						"name": "cooler1",
+						"id": 4,
+						"type": "cooler",
+						"status": 1,
+						"min": 0,
+						"max": 5,
+						"isLevel": true,
+						"regulatorLevel": 5
+
+					},
+					{
+						"name": "Ac1",
+						"id": 5,
+						"type": "ac",
+						"status": 0,
+						"min": 19,
+						"max": 27,
+						"isLevel": true,
+						"temperatureLevel": 19
+
+					}
+
+				]
+			},
+			{
+				"name": "board-2",
+				"id": 102,
+				"equipments": [{
+					"name": "cfl21",
+					"id": 6,
+					"type": "cfl",
+					"status": 1,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 5
+				}, {
+					"name": "TV22",
+					"id": 7,
+					"type": "tv",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"regulatorLevel": 0
+				}, {
+					"name": "bulb22",
+					"id": 8,
+					"type": "bulb",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}, {
+					"name": "lamp",
+					"id": 9,
+					"type": "lamp",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}]
+			},
+			{
+				"name": "board-3",
+				"id": 103,
+				"equipments": [{
+					"name": "cfl31",
+					"id": 10,
+					"type": "cfl",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}, {
+					"name": "bubl32",
+					"id": 11,
+					"type": "bulb",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}, {
+					"name": "bulb33",
+					"id": 12,
+					"type": "bulb",
+					"status": 0,
+
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}]
+			}
+		]
+	}, {
+		"name": "Bed_Room",
+		"id": 1002,
+		"boards": [{
+				"name": "board-1",
+				"id": 104,
+				"equipments": [{
+						"name": "bulb1",
+						"id": 13,
+						"type": "bulb",
+						"status": 0,
+						"min": 0,
+						"max": 5,
+						"isLevel": false,
+						"illuminationLevel": 0
+					},
+					{
+						"name": "tubelight1",
+						"id": 14,
+						"type": "tubelight",
+						"status": 0,
+						"min": 0,
+						"max": 5,
+						"isLevel": false,
+						"illuminationLevel": 0
+
+					},
+					{
+						"name": "fan1",
+						"id": 15,
+						"type": "ceilingfan",
+						"status": 0,
+						"min": 0,
+						"max": 5,
+						"isLevel": true,
+						"regulatorLevel": 0
+
+					},
+					{
+						"name": "cooler1",
+						"id": 16,
+						"type": "cooler",
+						"status": 1,
+						"min": 0,
+						"max": 5,
+						"isLevel": true,
+						"regulatorLevel": 5
+
+					},
+					{
+						"name": "Ac1",
+						"id": 17,
+						"type": "ac",
+						"status": 0,
+						"min": 19,
+						"max": 27,
+						"isLevel": true,
+						"temperatureLevel": 19
+
+					}
+
+				]
+			},
+			{
+				"name": "board-2",
+				"id": 105,
+				"equipments": [{
+					"name": "bulb21",
+					"id": 18,
+					"type": "bulb",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}, {
+					"name": "fan21",
+					"id": 19,
+					"type": "tableFan",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": true,
+					"regulatorLevel": 0
+				}, {
+					"name": "cfl22",
+					"id": 20,
+					"type": "cfl",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}, {
+					"name": "tubelight21",
+					"id": 21,
+					"type": "tubelight",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}]
+			},
+			{
+				"name": "board-3",
+				"id": 106,
+				"equipments": [{
+					"name": "bulb41",
+					"id": 22,
+					"type": "bulb",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}, {
+					"name": "cooler32",
+					"id": 19,
+					"type": "cooler",
+					"status": 0,
+					"min": 0,
+					"max": 5,
+					"isLevel": true,
+					"regulatorLevel": 0
+				}, {
+					"name": "cfl43",
+					"id": 24,
+					"type": "cfl",
+					"status": 0,
+
+					"min": 0,
+					"max": 5,
+					"isLevel": false,
+					"illuminationLevel": 0
+				}]
+			}
+		]
+
+	}]
+
+}
