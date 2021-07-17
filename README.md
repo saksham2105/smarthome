@@ -1,4 +1,13 @@
-With the advancement of technology and more dependency of people on smart phone and increasing demands of easy and quick way of solving Daily life task, it has become very important to have a technology which can control over the domestic and industrial applications using IOT. Our project Smart Home Framework over Wifi deals with embedded technologies along with internet of things (IOT) using Raspberry Pi which employs the embedded block and devices like ESP-8266, Relay module, breadboard, jumping wires. These is Client and Server Side Code Arduino UNO code will be uploaded shortly
+![GitHub stars](https://img.shields.io/github/stars/saksham2105/smarthome) 
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/saksham2105/smarthome/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)]()
+
+## Overview
+Smartify is a Home Automation Framework By which end users can controll and manage their Home appliances with the help of Native mobile applications.It provides various set of features which are mentioned below.
+
+### Video Preview
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/FAOR90fjsno/maxresdefault.jpg?time=1626518400000&sqp=CIDnyocG&rs=AOn4CLACqyZfIa8AZZ_CoXCQIeDXWZikXA)](https://www.youtube.com/watch?v=FAOR90fjsno)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/FAOR90fjsno/maxresdefault.jpg?time=1626518400000&sqp=CIDnyocG&rs=AOn4CLACqyZfIa8AZZ_CoXCQIeDXWZikXA)](https://www.youtube.com/watch?v=6ZmIYYKV3MM)
 
 Demo :
 1. https://youtu.be/FAOR90fjsno
