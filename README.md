@@ -33,7 +33,7 @@ Start Tomcat Server and send request to a url(Check Demo Link)
 ![](https://img.shields.io/badge/Java%20For%20Android-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Java%20J2EE-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Android%20Studio-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Web%20Sockets-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Java%20Swing%20For%20Simulation-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/C%20C++%20For%20Network%20Programming%20in%20IOT-%3C%2F%3E-blueviolet)
 
 ## Screenshots
-*Android App UI<img src="android_app.png" width="60" height="60">
+*Android App UI<img src="android_app.png" width="300" height="300">
 
 
 Demo :
